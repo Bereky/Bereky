@@ -3,11 +3,9 @@
 </p>
 
 <h1 align="center">
-My name is Bereket<br>
+Hi 👋, my name is Bereket<br>
 I am a Software Developer based in Ethiopia.
 </p>
-
----
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/bereket-lemma">
@@ -22,7 +20,8 @@ I am a Software Developer based in Ethiopia.
 </div>
 
 ---
+<span align="center">
 
-### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Bereky&theme=dark)](https://git.io/streak-stats)
 
+</span>
