@@ -24,11 +24,6 @@ Frontend Architect | Freelancer | Open Source ❤️
   </a>
 </div>
 
----
-
-### Language and tools
-
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,html,ts,sass,flutter,python,express,php,css,wordpress,xd,figma,git,heroku,vercel,firebase,cpp&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -36,3 +31,10 @@ Frontend Architect | Freelancer | Open Source ❤️
 
 - [Dash Donation](http://dash-donation.vercel.app/)
 - [Password Generator](https://generate-pwd.vercel.app/)
+
+---
+
+### Language and tools
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,html,ts,sass,flutter,python,express,php,css,wordpress,xd,figma,git,heroku,vercel,firebase,cpp&theme=dark)](https://skillicons.dev)
+
