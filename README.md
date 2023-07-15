@@ -7,7 +7,7 @@ Website Architect | Freelancer | Open Source ❤️
 
 
 - 🔭 I’m currently working on [Fusion](https://three60fusion.onrender.com/)
-- 🌱 I'm Learning more about React/Next/NodeJS and End to End website developemt
+- 🌱 I'm Learning more about React/Next/TypeScript and End to End website developemt
 - ⚡ I'm Big fan of Open source
 - 📫 If you need my help or want to collab DM me 👇
 
