@@ -2,15 +2,14 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60"/> 
 <br/> 
 Hey I'm Bereket<br>
-Frontend Architect | Freelancer | Open Source ❤️
+Website Architect | Freelancer | Open Source ❤️
 </h2>
 
 
-- 🔭 I’m currently working at [Carikture](http://www.carikture.com/) as a web developer
-- 🌱 I'm Learning more about Flutter, Blockchain & End to End website developemt
-- ⚡ I'm Big fan of Open source and ❤️ figuring out how things ```really``` work
-- 📫 How to reach me: 👇
-
+- 🔭 I’m currently working on [Fusion](https://three60fusion.onrender.com/)
+- 🌱 I'm Learning more about React/Next/NodeJS and End to End website developemt
+- ⚡ I'm Big fan of Open source
+- 📫 If you need my help or want to collab DM me 👇
 
 <div id="badges" >
   <a href="https://www.linkedin.com/in/bereket-lemma">
@@ -27,14 +26,7 @@ Frontend Architect | Freelancer | Open Source ❤️
 
 ---
 
-### Latest projects
-
-- [Dash Donation](http://dash-donation.vercel.app/)
-- [Password Generator](https://generate-pwd.vercel.app/)
-
----
-
 ### Language and tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,html,ts,sass,flutter,python,express,php,css,wordpress,xd,figma,git,heroku,vercel,firebase,cpp&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,html,ts,sass,flutter,python,express,php,css,wordpress,xd,figma,git,heroku,vercel,firebase,cpp,java,mongo&theme=dark)](https://skillicons.dev)
 
