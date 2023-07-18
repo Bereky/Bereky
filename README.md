@@ -2,7 +2,7 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60"/> 
 <br/> 
 Hey I'm Bereket<br>
-Website Architect | Freelancer | Open Source ❤️
+Software Engineer | Freelancer | Open Source ❤️
 </h2>
 
 
