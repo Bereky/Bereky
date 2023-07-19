@@ -6,7 +6,7 @@ Software Engineer | Freelancer | Open Source ❤️
 </h2>
 
 
-- 🔭 I’m currently working on [Fusion](https://three60fusion.onrender.com/)
+- 🔭 I’m currently working on [Fusion](https://three60-fusion.onrender.com/)
 - 🌱 I'm Learning more about React/Next/TypeScript and End to End website developemt
 - ⚡ I'm Big fan of Open source
 - 📫 If you need my help or want to collab DM me 👇
